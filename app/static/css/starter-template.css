@@ -1,0 +1,24 @@
+body {
+  padding-top: 0px;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.jumbotron{
+	background:url('http://goo.gl/0xthIg') no-repeat center;
+	background-size:cover;
+	text-align: center;
+}
+
+.container{
+    margin-left:50px;
+
+}  
+
+.container-fluid{
+	margin-left:10%;
+	margin-right:10%;
+}
